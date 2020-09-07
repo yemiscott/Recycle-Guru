@@ -8,6 +8,6 @@ The player will immediately be drawn to a rather impressive set of recycling bin
 
 The aim is to get the player to pick these up, put each trash into the correct recycling bin before heading inside. 
 
-I utilised interacrable assets, ambient sounds, contact sounds, particle effects... All in an aesthetically pleasing 3d world. 
+I utilised intractable assets, ambient sounds, SFX, contact sounds, particle effects... All in an aesthetically pleasing 3d world. 
 
 Hope you enjoy it. This is just the first draft...  
