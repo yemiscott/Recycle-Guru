@@ -4,7 +4,7 @@ My first VR project in Unity. With hopes of creating more immersive experiences 
 
 The game opens up at the front of a house, sitting in the middle of a forest; with a mountain in the distance. 
 
-The player will immediately be drawn to a rather impressive recycling bins with trash around its base. 
+The player will immediately be drawn to a rather impressive set of recycling bins with trash around its base. 
 
 The aim is to get the player to pick these up, put each trash into the correct recycling bin before heading inside. 
 
